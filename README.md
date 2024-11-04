@@ -1,4 +1,3 @@
-```markdown
 # Basic-Agent
 
 A basic conversational AI agent using LangChain's Groq and Tavily Search tools. This project demonstrates a foundational setup for creating a chatbot capable of answering user queries, fetching data using search tools when needed, and supporting simple conversational responses.
